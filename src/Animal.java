@@ -4,5 +4,5 @@ public abstract class Animal {
     public Animal(String name) {
         this.name = name;
     }
-     abstract void greets();
+    public abstract void greets();
 }

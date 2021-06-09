@@ -6,7 +6,7 @@ public class BigDog extends Dog{
     }
 
     @Override
-    void greets() {
+   public  void greets() {
         System.out.println("Wooow");
     }
 
